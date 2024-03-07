@@ -6,4 +6,4 @@ for i in range(6):
     if lista[i] in [3, 4]:
         lista[i] = 2
 
-print(lista)  # [1, 2, 2, 2, 5, 2]
+print(lista)
